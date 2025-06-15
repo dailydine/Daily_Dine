@@ -28,9 +28,4 @@
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-*(Optional: Include license information here)*
 
----
-
-> Built with ❤️ to simplify dining experiences – one table at a time.
