@@ -20,6 +20,6 @@
 ---
 
 ## 🚀 Technologies Used
--  **Djnago and flutter**
+-  **Django and flutter**
 
 
