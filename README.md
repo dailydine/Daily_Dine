@@ -20,12 +20,6 @@
 ---
 
 ## 🚀 Technologies Used
-*(Optional: Add your tech stack here)*
-
-## 📦 Installation & Setup
-*(Optional: Add setup instructions if you're ready to share project usage steps)*
-
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+**Djnago and flutter
 
 
