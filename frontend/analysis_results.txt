@@ -1,0 +1,4 @@
+[warning] The asset directory 'assets/images/' doesn't exist (C:\Users\mushr\Projects\DailyDine\dailydine-main\pubspec.yaml:98:7)
+[warning] The asset directory 'assets/icons/' doesn't exist (C:\Users\mushr\Projects\DailyDine\dailydine-main\pubspec.yaml:99:7)
+[warning] The asset directory 'assets/animations/' doesn't exist (C:\Users\mushr\Projects\DailyDine\dailydine-main\pubspec.yaml:100:7)
+[warning] A value for optional parameter 'errorLogger' isn't ever given (C:\Users\mushr\Projects\DailyDine\dailydine-main\lib\core\network\api_service.g.dart:15:10)

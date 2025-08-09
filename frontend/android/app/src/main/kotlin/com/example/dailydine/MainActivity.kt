@@ -1,4 +1,4 @@
-package com.example.frontend
+package com.example.dailydine
 
 import io.flutter.embedding.android.FlutterActivity
 
